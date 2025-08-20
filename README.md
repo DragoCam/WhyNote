@@ -5,7 +5,7 @@
 ---
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=swift,kotlin,electron" alt="Technologies" />
+  <img src="https://skillicons.dev/icons?i=swift" alt="Technologies" />
 </p>
 
 ---
